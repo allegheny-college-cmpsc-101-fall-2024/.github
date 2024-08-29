@@ -1,6 +1,4 @@
 
-![Cube](https://svgsilh.com/svg/1274902.svg)
-
 - [Syllabus](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/README.md)
 - [Schedule](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/Schedule.md)
 - [Notes](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/tree/main/notes)
@@ -10,3 +8,5 @@
 - [Guttag Lectures](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/video_galleries/lecture-videos/)
 - [Python Docs](https://docs.python.org/3/)
 - [Proactive Programmers](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/)
+
+![Cube](https://svgsilh.com/svg/1274902.svg)
