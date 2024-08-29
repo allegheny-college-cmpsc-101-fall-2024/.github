@@ -9,4 +9,4 @@
 - [Python Docs](https://docs.python.org/3/)
 - [Proactive Programmers](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/)
 
-![Cube](https://svgsilh.com/svg/1274902.svg)
+For grades, see [Canvas](https://allegheny.instructure.com/).
